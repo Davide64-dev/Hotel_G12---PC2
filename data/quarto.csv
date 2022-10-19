@@ -1,0 +1,49 @@
+codigo;login;estado;tipo
+101;hermione;Ocupado;Duplo
+102;None;livre;Singular
+103;hermione;Ocupado;Triplo
+104;None;livre;Suite Executiva
+105;None;livre;Suite Presidencial
+106;None;livre;Duplo
+107;None;livre;Duplo
+108;None;livre;Duplo
+109;None;livre;Triplo
+110;None;livre;Suite Executiva
+201;None;livre;Triplo
+202;None;livre;Suite Presidencial
+203;None;livre;Singular
+204;None;livre;Singular
+205;None;livre;Singular
+206;None;livre;Duplo
+207;None;livre;Duplo
+208;None;livre;Suite Executiva
+209;None;livre;Triplo
+210;None;livre;Triplo
+211;None;livre;Triplo
+212;None;livre;Suite Presidencial
+213;None;livre;Duplo
+214;None;livre;Singular
+301;None;livre;Triplo
+302;None;livre;Duplo
+303;None;livre;Duplo
+304;None;livre;Singular
+305;None;livre;Suite Executiva
+306;None;livre;Triplo
+307;None;livre;Singular
+308;None;livre;Duplo
+309;None;livre;Suite Presidencial
+310;None;livre;Triplo
+311;None;livre;Suite Presidencial
+401;None;livre;Duplo
+402;None;livre;Triplo
+403;None;livre;Suite Executiva
+404;None;livre;Triplo
+405;None;livre;Duplo
+406;None;livre;Suite Executiva
+407;None;livre;Triplo
+408;None;livre;Singular
+409;None;livre;Singular
+410;None;livre;Singular
+411;None;livre;Singular
+412;None;livre;Suite Executiva
+413;None;livre;Single
